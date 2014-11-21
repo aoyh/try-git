@@ -1,0 +1,10 @@
+---
+Date: 2014-11-21
+Title: Write a poem and try git
+Tags: git
+#Status: draft
+URL： poem-git
+---
+
+> 天竺石板夜行幽
+法净寺前山溪流
