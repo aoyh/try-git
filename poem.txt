@@ -2,7 +2,7 @@
 Date: 2014-11-21
 Title: Write a poem and try git
 Tags: git
-#Status: draft
+Status: draft
 URL： poem-git
 ---
 
